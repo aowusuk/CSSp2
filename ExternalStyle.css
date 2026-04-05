@@ -4,4 +4,4 @@ p{color: rgb(20, 95, 65);text-align: center;}
 h2{color: darkorange; font-family: fantasy;}
 h3, span{ color: #00f; background-color: #B3BB;}
 span{ color: rgb(180, 27, 27); background-color: #B3BB; display: block;}
-div{ height: 100px; width: 45%; background:000ff; display:table-cell;float: right; overflow: scroll;}
+div{ height: 100px; width: 45%; background:000ff; display:grid; grid-template-columns: 25% 25% 25%;float: right;}
